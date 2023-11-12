@@ -1,0 +1,49 @@
+h1{
+    display: block;
+    text-align: center;
+    font-family:"Arial",serif;
+    font-size: 200%;
+    background-color: sandybrown;
+    padding: 5%;
+    width: 50%;
+    border-radius: 10px;
+    margin: 5% 20%;
+
+}
+
+footer, div{
+    text-align: center;
+}
+
+fieldset{
+    display: inline-block;
+    margin: 0 auto;
+    width: 50%;
+    background-color: sandybrown;
+}
+
+body{
+    background-color: wheat;
+}
+img{
+    background-color: white;
+    width: 20%;
+}
+img:last-child {
+    width: auto;
+}
+
+button{
+    width: 10%;
+    min-width: 10%;
+    max-width: 10%;
+
+}
+/* Style the output box */
+.output-box {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-top: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
